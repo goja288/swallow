@@ -1,2 +1,6 @@
-# swallow
-Database migration to development enviroments
+# Swallow
+
+Database migration for development environments .
+
+The aim is to generate scripts for partial functional copy of production databases, to accelerate the development and understanding of the conceptual model.
+
