@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pentaho:pentaho-xul-swt:5.3.0.0-200">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-xul-swt/5.3.0.0-200/pentaho-xul-swt-5.3.0.0-200.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-xul-swt/5.3.0.0-200/pentaho-xul-swt-5.3.0.0-200-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pentaho/pentaho-xul-swt/5.3.0.0-200/pentaho-xul-swt-5.3.0.0-200-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

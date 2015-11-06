@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="swallow:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="swallow.war">
+      <element id="artifact" artifact-name="swallow:war exploded" />
+    </root>
+  </artifact>
+</component>
